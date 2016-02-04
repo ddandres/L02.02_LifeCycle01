@@ -5,6 +5,7 @@ Lecture 02.02 Activity Life Cycle 01, DISCA - UPV, Development of apps for mobil
 - React to lifecycle's callbacks
 - Use of Logcat to monitor the activity of the application
 
+Use case
 - Launch the app and check LogCat
 - Press Home (the app is stopped)
 - Launch the app again (the app is not created again)
