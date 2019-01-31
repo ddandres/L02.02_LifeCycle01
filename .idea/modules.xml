@@ -3,9 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/L02.02_LifeCycle01.iml" filepath="$PROJECT_DIR$/L02.02_LifeCycle01.iml" />
-      <module fileurl="file://D:\Docencia\SDM\Test\L02.02_LifeCycle01\L02.02_LifeCycle01.iml" filepath="D:\Docencia\SDM\Test\L02.02_LifeCycle01\L02.02_LifeCycle01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SDM/Test/L02.02_LifeCycle01/L02.02_LifeCycle01.iml" filepath="$PROJECT_DIR$/../../../../SDM/Test/L02.02_LifeCycle01/L02.02_LifeCycle01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/L02.02_LifeCycle01.iml" filepath="$PROJECT_DIR$/L02.02_LifeCycle01.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://D:\Docencia\SDM\Test\L02.02_LifeCycle01\app\app.iml" filepath="D:\Docencia\SDM\Test\L02.02_LifeCycle01\app\app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../SDM/Test/L02.02_LifeCycle01/app/app.iml" filepath="$PROJECT_DIR$/../../../../SDM/Test/L02.02_LifeCycle01/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
 </project>
