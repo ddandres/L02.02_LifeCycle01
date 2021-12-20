@@ -10,4 +10,4 @@ Use case
 - Press Home (the app is stopped)
 - Launch the app again (the app is not created again)
 - Rotate the device (emulator). Observe that the activity is destroyed and created again!
-- Press back (the app is destroyed)
+- Press back (the app is destroyed in API 30- or stopped in API 31)
